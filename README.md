@@ -1,10 +1,11 @@
+
 SMART DIGITAL VOTING MACHINE
-It is an entirely new voting procedure with sophisticated method of vote casting with
+It is an simply a `proof of concept` for a  new voting procedure with sophisticated method of vote casting with
 automatic ID verificaion along withbiometric authentication.
 
-This method doesnot require any manual verification throughout the voting.
+This method doesnot require any manual verification throughout the voting procedure.
 
-So it can significantly reduce the man power
+So it can significantly reduce the need of government officials in a polling booth
 
 It enable the voters to cast their vote from any polling booth across the country.
 #Uses Flask app as web server.
