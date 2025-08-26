@@ -1,6 +1,6 @@
 
 SMART DIGITAL VOTING MACHINE
-It is an simply a `proof of concept` for a  new voting procedure with sophisticated method of vote casting with
+It is simply a `proof of concept` for a  new voting procedure with sophisticated method of vote casting with
 automatic ID verificaion along withbiometric authentication.
 
 This method doesnot require any manual verification throughout the voting procedure.
