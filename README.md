@@ -13,7 +13,7 @@ It enable the voters to cast their vote from any polling booth across the countr
 
 Voting Procedure
 1) The voting machine shows live feed from the camera in the touch display.
-2) Whenever a voter scan their aadhaar card infront of camera, the machine sends the data from the Aadhaar Card to the Server.
+2) Whenever a voter shows their aadhaar card infront of camera, the machine scans the ID and sends the data from the Aadhaar Card to the Server.
 3) Server verifies the ID card by comparing the data with Aadhaar database.
 4) Also verifies the elligibility of voter by comparing the data with voters database.
 5) If any of the verification returns false, the machine displays appropriate error and return to the live feed.
